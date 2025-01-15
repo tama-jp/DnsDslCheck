@@ -8,8 +8,8 @@
 .test-tmp
 *.dll
 *.dylib
-*.exe
-*.exe~
+#*.exe
+#*.exe~
 *.out
 *.so
 *.test
